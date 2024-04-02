@@ -37,6 +37,14 @@ The website will consist of a main index page, which will have links to a few re
 
 Uses HTML5 and CSS3.
 
+## Testing
+
+Make sure all user stories have been met.
+
+## Deployment
+
+This project is deployed on [GitHub Pages](https://derektypist.github.io/build-a-recipe-project/) at the main branch.
+
 ## Credits
 
 ### Content
